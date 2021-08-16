@@ -24,7 +24,7 @@ body{
   /* Sections */
   
   .colored-section{
-    background-image:url(bg.PNG);
+    background-image:url(bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     color: #fff;
